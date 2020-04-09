@@ -12,4 +12,4 @@ I was starting to fall for the toolbox fallacy:
 [![THE TOOLBOX FALLACY](http://img.youtube.com/vi/sz4YqwH_6D0/0.jpg)](http://www.youtube.com/watch?v=sz4YqwH_6D0)
 
 
-The reality is that I didn't NEED any of that, I just needed to put together what you're reading here. Will it be ugly? YES! Unweildy after a while of writing this in a flat file? YES! It's going to be as ugly as an Apache 1.x https.conf file. But that's OK. And I'll eventualy learn that new framework, or find that perfect CMS theme, but not today, today I will just get started writing my new blog.
+The reality is that I didn't NEED any of that, I just needed to put together what you're reading here. Will it be ugly? YES! Unweildy after a while of writing this in a flat file? YES! It's going to be as ugly as an Apache 1.x httpd.conf file. But that's OK. And I'll eventualy learn that new framework, or find that perfect CMS theme and move this and it will look nice, but not today, today I will just get started writing my new blog.
