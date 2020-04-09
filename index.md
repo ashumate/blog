@@ -8,6 +8,8 @@ This is my personal blog where I will pontificate on any number of things adding
 I've been meaning to put a blog back together for quite some time but I've always found some sort of excuse. I need a better CMS theme, I need to learn this new static HTML framework, I need time to write, I need..., I need..., I need.
 
 I was starting to fall for the toolbox fallacy:
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=sz4YqwH_6D0" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="THE TOOLBOX FALLACY" width="240" height="180" border="10" /></a>
+
+[![THE TOOLBOX FALLACY](http://img.youtube.com/vi/sz4YqwH_6D0/0.jpg)](http://www.youtube.com/watch?v=sz4YqwH_6D0)
+
 
 The reality is that I didn't NEED any of that, I just needed to put together what you're reading here. Will it be ugly? YES! Unweildy after a while of writing this in a flat file? YES! It's going to be as ugly as an Apache 1.x https.conf file. But that's OK. And I'll eventualy learn that new framework, or find that perfect CMS theme, but not today, today I will just get started writing my new blog.
