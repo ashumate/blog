@@ -7,7 +7,7 @@ This is my personal blog where I will pontificate on any number of things adding
 [Hello World 2020-04-08](#hello-world)
 
 ## An exception to the rules
-2020-04-18
+##### 2020-04-18
 
 I'm still working out a long term solution to my blog. Trying to figure out critically essential things, like, do I put new entries at the top or the bottom? I'll eventually figure something out since the current pandemic situation is causing a slow down even in my line of work.
 
@@ -29,7 +29,7 @@ You do have a standard risk assessment methodology and established risk toleranc
 Removing the stigma of the security department or program is a roadblock to the business is hard. Once your organization understands policy exceptions are allowed and that there is a process to have them granted, it can start to remove the stigma and encourage cooperation.
 
 ## Hello World
-2020-04-08
+##### 2020-04-08
 
 I've been meaning to put a blog back together for quite some time but I've always found some sort of excuse. I need a better CMS theme, I need to learn this new static HTML framework, I need time to write, I need..., I need..., I need.
 
