@@ -14,7 +14,7 @@ I'm still working out a long term solution to my blog. Trying to figure out crit
 Speaking of the pandemic, I've noticed that a lot of exceptions made to long-standing rules and laws. Amid quarantine, some states allowed bars and restaurants to serve liquor via delivery and take-out. Since the sale of distilled spirits in many places is tightly regulated, this is a massive exception to the standard rules. We're also seeing that a lot in the way many companies are operating. Many companies are also finding creative ways to work in this 'new normal' by making exceptions to long-standing policies.
 
 Something that I had started talking about with many of my clients before COVID-19 was on the horizon was to create an exception policy as part of their Information Security Management System. Many companies have some boilerplate statement in their policies along the line of:
->"Exceptions to this policy must be granted in writing by \<title>."
+>"Exceptions to this policy must be granted in writing by *insert title here*."
 
 It's pretty standard policy language passed down over the years. But many organizations rarely grant exceptions. It's like this statement was put into the policies because it sounded like an excellent way to satisfy an auditor, but I digress.
 
